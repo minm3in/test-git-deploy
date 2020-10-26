@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-git-deploy/static/css/main.f68cbbf8.chunk.css",
+    "main.js": "/test-git-deploy/static/js/main.ea51f3d4.chunk.js",
+    "main.js.map": "/test-git-deploy/static/js/main.ea51f3d4.chunk.js.map",
+    "runtime-main.js": "/test-git-deploy/static/js/runtime-main.673045f4.js",
+    "runtime-main.js.map": "/test-git-deploy/static/js/runtime-main.673045f4.js.map",
+    "static/js/2.2eaf0afe.chunk.js": "/test-git-deploy/static/js/2.2eaf0afe.chunk.js",
+    "static/js/2.2eaf0afe.chunk.js.map": "/test-git-deploy/static/js/2.2eaf0afe.chunk.js.map",
+    "index.html": "/test-git-deploy/index.html",
+    "precache-manifest.f912c639cbb58806705a7df5f5ec764a.js": "/test-git-deploy/precache-manifest.f912c639cbb58806705a7df5f5ec764a.js",
+    "service-worker.js": "/test-git-deploy/service-worker.js",
+    "static/css/main.f68cbbf8.chunk.css.map": "/test-git-deploy/static/css/main.f68cbbf8.chunk.css.map",
+    "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/test-git-deploy/static/js/2.2eaf0afe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.673045f4.js",
+    "static/js/2.2eaf0afe.chunk.js",
+    "static/css/main.f68cbbf8.chunk.css",
+    "static/js/main.ea51f3d4.chunk.js"
+  ]
+}
